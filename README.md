@@ -78,7 +78,17 @@ Ferramentas essenciais no meu fluxo:
 
 ---
 
+---
 
+## 🏢 Experiência em Projetos Reais
+
+| Empresa | Projeto | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **MSSF CUSTOM** | Site Institucional | React.js, TypeScript, Taiwind CSS | [Visualizar](https://customfactory.vercel.app/) |
+| **MIÑAS PRETAS** | Site Institucinal/Catálogo Virtual | HTML, CSS, JavaScript | [Visualizar](https://minaspretas.netlify.app/) |
+
+
+---
 ## 📫 Como falar comigo
 
 - ✉️ Email: **keilynrosasprofissional@gmail.com**
